@@ -67,10 +67,6 @@
         box-shadow: 0 0 25px #fef4f5;
     }
 
-
-
-
-
     p {
         font-weight: 500;
         margin-top: .5rem;
@@ -133,7 +129,9 @@
     margin-right: 3rem;
 
     p {
+        width: max-content;
         font-weight: 800;
+        font-size: .9em;
         color: var(--secondary-color);
     }
 
