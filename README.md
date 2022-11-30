@@ -2,7 +2,7 @@
 
 Portfolio page
 
-edenm-portfolio.netlify.app
+https://edenm-portfolio.netlify.app/
 
 Platforms:
 
