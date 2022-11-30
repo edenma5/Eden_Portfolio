@@ -48,8 +48,8 @@ function Header() {
                 transition={{ duration: 1.5, delayChildren: 0.5 }}
                 className="app__header-img"
             >
-                <img src={images.profile} alt='profile_bg' />
-                {/* <img src={images.circle} className='hand_circle' /> */}
+                <img className='profilePic' src={images.profile} alt='profile_bg' />
+                <img src={images.circle} className='small_circle' />
                 <motion.img
                     whileInView={{ scale: [0, 1] }}
                     transition={{ duration: 1, ease: 'easeInOut' }}
