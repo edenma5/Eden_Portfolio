@@ -2,6 +2,8 @@
 
 Portfolio page
 
+edenm-portfolio.netlify.app
+
 Platforms:
 
 Client side - ReactJS
