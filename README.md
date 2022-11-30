@@ -1,4 +1,4 @@
-# Eden_Protfolio
+# Eden_Portfolio
 
 Portfolio page
 
