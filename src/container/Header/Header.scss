@@ -56,7 +56,8 @@
             .badge-cmp,
             .tag-cmd {
                 padding: 1rem 2rem;
-                border: var(--white-color);
+                border: var(--black-color);
+                background-color: var(--white-color);
                 border-radius: 15px;
                 flex-direction: row;
                 width: auto;

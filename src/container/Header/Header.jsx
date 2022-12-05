@@ -17,7 +17,7 @@ const scaleVariants = {
     }
 }
 
-const softwareLan = [images.javascript, images.react, images.node];
+const programLan = [images.javascript, images.react, images.node];
 
 function Header() {
     return (
@@ -64,7 +64,7 @@ function Header() {
                 whileInView={scaleVariants.whileInView}
                 className='app__header-circles'
             >
-                {softwareLan.map((img, i) => (
+                {programLan.map((img, i) => (
                     <div className='circle-cmp app__flex' key={`circle-${i}`}>
                         <img src={img} alt="circle" />
                     </div>
