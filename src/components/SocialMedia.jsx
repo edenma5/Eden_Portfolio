@@ -11,7 +11,7 @@ export default function SocialMedia() {
             <a href='https://www.linkedin.com/in/eden-maimon' target='_blank'>
                 <FaLinkedinIn />
             </a>
-            <a data-tip href='https://www.dropbox.com/s/a9v8pkdun5y1uk6/Eden%20Maimon%20CV-%20English.pdf?dl=0' target='_blank'>
+            <a data-tip href='https://www.dropbox.com/s/iitw2y2r3e5yv5f/Eden%20Maimon%20CV-%20English.pdf?dl=0' target='_blank'>
                 <FaRegFilePdf />
                 <ReactTooltip
                     effect='solid'
