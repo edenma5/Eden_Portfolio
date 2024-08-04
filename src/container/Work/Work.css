@@ -45,6 +45,7 @@
 }
 .app__work-portfolio .app__work-item {
   width: 270px;
+  min-height: 25rem;
   flex-direction: column;
   margin: 2rem;
   padding: 1rem;
@@ -118,6 +119,11 @@
   width: 50%;
   height: 50%;
   color: var(--white-color);
+}
+@media screen and (max-width: 900px) {
+  .app__work-hover {
+    opacity: 0.6;
+  }
 }
 
 .app__work-content {

@@ -123,8 +123,16 @@
   margin-right: 3rem;
 }
 .app__skills-exp-year p {
+  width: -moz-max-content;
+  width: max-content;
   font-weight: 800;
+  font-size: 0.9em;
   color: var(--secondary-color);
+}
+@media screen and (min-width: 2000px) {
+  .app__skills-exp-year p {
+    font-size: 1.4em;
+  }
 }
 @media screen and (max-width: 450px) {
   .app__skills-exp-year {
