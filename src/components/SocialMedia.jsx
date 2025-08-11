@@ -24,7 +24,7 @@ export default function SocialMedia() {
       <a
         data-tooltip-id="tooltip"
         data-tooltip-content="Eden Maimon CV"
-        href="https://www.dropbox.com/s/iitw2y2r3e5yv5f/Eden%20Maimon%20CV-%20English.pdf?dl=0"
+        href="https://www.dropbox.com/scl/fi/1y2wiiabpi3wjlohxijfc/Eden-Maimon-CV-English.pdf?rlkey=06f0xdbbarf8w4p9x8z7xoxy9&dl=0"
         target="_blank"
       >
         <FaRegFilePdf />
